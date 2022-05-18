@@ -5,4 +5,8 @@ cài đặt và sử dụng selenium :  https://www.sudo.vn/blog/huong-dan-lay-d
 virtualenv selenium_python
 cd selenium_python/bin/activate
 pip install selenium
-3.sử dụng scrapy để lấy data tại từng url
+
+
+
+2.sử dụng scrapy để lấy data tại từng url
+https://docs.scrapy.org/en/latest/intro/tutorial.html
